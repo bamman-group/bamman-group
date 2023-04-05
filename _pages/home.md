@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at University of California, Berkeley's [School of Information](https://ischool.berkeley.edu) and [BAIR](https://bair.berkeley.edu/). Our work spans a variety of areas, including but not limited to: computational social science, cultural analytics, natural language processing, and computational precision health. 
-
+This is the website for [David Bamman](https://people.ischool.berkeley.edu/~dbamman/)'s research group! We are researchers at University of California, Berkeley's [School of Information](https://ischool.berkeley.edu) and [BAIR](https://bair.berkeley.edu/). Our work spans a variety of areas, including but not limited to: computational social science, cultural analytics, natural language processing, and computational precision health. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -18,7 +17,7 @@ We are a research group at University of California, Berkeley's [School of Infor
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_3074.png" alt="Slide 1" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -30,3 +29,5 @@ We are a research group at University of California, Berkeley's [School of Infor
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+We also recommend that you also visit some of our friends around campus: [Berkeley HCI](https://hci.berkeley.edu/), [Berkeley NLP](https://nlp.cs.berkeley.edu/), and [Digital Humanities at Berkeley](https://digitalhumanities.berkeley.edu/). 

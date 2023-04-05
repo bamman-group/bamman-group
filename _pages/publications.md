@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-This is just a highlight reel. You can see **more publications** on group members' individual websites, listed on the Team page.
+This is a highlight reel of some representative work. You can see **more publications** on group members' individual websites, listed on the Team page.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

@@ -2,46 +2,40 @@
   photo: rock.jpg
   info: Associate Professor
   email: dbamman at berkeley.edu
-  number_educ: 2
-  education1: PhD Carnegie Mellon University
-  education2: <a href="https://people.ischool.berkeley.edu/~dbamman/">website</a>
+  number_educ: 1
+  education1: <a href="https://people.ischool.berkeley.edu/~dbamman/">website</a>
 
 - name: Sandeep Soni
   photo: rock.jpg
   info: Postdoc
   email: soni dot sandeepb at gmail
-  number_educ: 2
-  education1: PhD Georgia Tech
-  education2: <a href="https://sandeepsoni.github.io/">website</a>
+  number_educ: 1
+  education1: <a href="https://sandeepsoni.github.io/">website</a>
 
 - name: Lucy Li
   photo: rock.jpg
   info: PhD Student
   email: lucy3_li at berkeley.edu
-  number_educ: 2
-  education1: BS/MS Stanford University
-  education2: <a href="https://lucy3.github.io/">website</a>
+  number_educ: 1
+  education1: <a href="https://lucy3.github.io/">website</a>
   
 - name: Kent Chang
   photo: rock.jpg
   info: PhD Student
   email: kentkc [at] berkeley.edu
-  number_educ: 2
-  education1: Predoc Carnegie Mellon University
-  education2: <a href="https://kentkc.org/">website</a>
+  number_educ: 1
+  education1: <a href="https://kentkc.org/">website</a>
   
 - name: Nikita Mehandru
   photo: rock.jpg
   info: PhD Student
   email: nmehandru at ischool.berkeley.edu
-  number_educ: 2
-  education1: MA University of Pennsylvania
-  education2: <a href="https://www.ischool.berkeley.edu/people/nikita-mehandru">website</a>
+  number_educ: 1
+  education1: <a href="https://www.ischool.berkeley.edu/people/nikita-mehandru">website</a>
   
 - name: Naitian Zhou
   photo: rock.jpg
   info: PhD Student
   email: naitian at berkeley.edu
-  number_educ: 2
-  education1: BS University of Michigan
-  education2: <a href="https://naitian.org/">website</a>
+  number_educ: 1
+  education1: <a href="https://naitian.org/">website</a>
