@@ -29,3 +29,5 @@ This is the website for [David Bamman](https://people.ischool.berkeley.edu/~dbam
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+We also recommend that you also visit some of our friends around campus: [Berkeley HCI](https://hci.berkeley.edu/), [Berkeley NLP](https://nlp.cs.berkeley.edu/), and [Digital Humanities at Berkeley](https://digitalhumanities.berkeley.edu/). 
