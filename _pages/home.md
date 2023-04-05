@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to [David Bamman](https://people.ischool.berkeley.edu/~dbamman/)'s research group! We are a research group at University of California, Berkeley's [School of Information](https://ischool.berkeley.edu) and [BAIR](https://bair.berkeley.edu/). Our work spans a variety of areas, including but not limited to: computational social science, cultural analytics, natural language processing, and computational precision health. 
+This is the website for [David Bamman](https://people.ischool.berkeley.edu/~dbamman/)'s research group! We are researchers at University of California, Berkeley's [School of Information](https://ischool.berkeley.edu) and [BAIR](https://bair.berkeley.edu/). Our work spans a variety of areas, including but not limited to: computational social science, cultural analytics, natural language processing, and computational precision health. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
