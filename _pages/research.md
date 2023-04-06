@@ -1,6 +1,6 @@
 ---
 title: "Bamman Group - Research"
-layout: textlay
+layout: gridlay
 excerpt: "Bamman Group -- Research"
 sitemap: false
 permalink: /research/
