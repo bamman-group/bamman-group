@@ -8,8 +8,6 @@ permalink: /team/
 
 # Group Members
 
-Prospective undergraduate researchers should apply through [URAP](https://research.berkeley.edu/urap/) at the beginning of each semester. 
-
 ## Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
