@@ -2,40 +2,34 @@
   photo: david.jpeg
   info: Associate Professor
   email: dbamman at berkeley.edu
-  number_educ: 1
-  education1: <a href="https://people.ischool.berkeley.edu/~dbamman/">website</a>
+  website: https://people.ischool.berkeley.edu/~dbamman/
 
 - name: Sandeep Soni
   photo: sandeep.jpg
   info: Postdoc
   email: soni dot sandeepb at gmail
-  number_educ: 1
-  education1: <a href="https://sandeepsoni.github.io/">website</a>
+  website: https://sandeepsoni.github.io/
 
 - name: Lucy Li
   photo: lucy.png
   info: PhD Student
   email: lucy3_li at berkeley.edu
-  number_educ: 1
-  education1: <a href="https://lucy3.github.io/">website</a>
+  website: https://lucy3.github.io/
   
 - name: Kent Chang
   photo: kent.jpeg
   info: PhD Student
   email: kentkc [at] berkeley.edu
-  number_educ: 1
-  education1: <a href="https://kentkc.org/">website</a>
+  website: https://kentkc.org/
   
 - name: Nikita Mehandru
   photo: nikita.jpeg
   info: PhD Student
   email: nmehandru at ischool.berkeley.edu
-  number_educ: 1
-  education1: <a href="https://www.ischool.berkeley.edu/people/nikita-mehandru">website</a>
+  website: https://www.ischool.berkeley.edu/people/nikita-mehandru
   
 - name: Naitian Zhou
   photo: naitian.jpg
   info: PhD Student
   email: naitian at berkeley.edu
-  number_educ: 1
-  education1: <a href="https://naitian.org/">website</a>
+  website: https://naitian.org/
