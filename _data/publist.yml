@@ -1,5 +1,5 @@
 - title: "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4"
-  image: placeholder.png
+  image: archaeology_books.png
   description: We carry out a data archaeology to infer books that are known to ChatGPT and GPT-4, finding that OpenAI models have memorized a wide collection of copyrighted materials, and that the degree of memorization is tied to the frequency with which passages of those books appear on the web. The ability of these models to memorize an unknown set of books complicates assessments of measurement validity for cultural analytics by contaminating test data; we show that models perform much better on memorized books than on non- memorized books for downstream tasks. We argue that this supports a case for open models whose training data is known.
   authors: Kent K. Chang, Mackenzie Cramer, Sandeep Soni and David Bamman
   link:
@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Narrative Theory for Computational Narrative Understanding"
-  image: placeholder.png
+  image: narrative_image.png
   description:  In this position paper, we introduce the dominant theoretical frameworks on narrative to the NLP community, situate current research in NLP within distinct narratological traditions, and argue that linking computational work in NLP to theory opens up a range of new empirical questions that would both help advance our understanding of narrative and open up new practical applications.
   authors: Andrew Piper, Richard So and David Bamman
   link:
