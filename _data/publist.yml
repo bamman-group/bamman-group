@@ -9,7 +9,7 @@
 
 - title: "Predicting Long-Term Citations from Short-Term Linguistic Influence"
   image: citations_fig1.png
-  description: Citation count is an imperfect proxy of linguistic influence of research publications. We propose a novel method to quantify linguistic influence in timestamped document collections, first identifying lexical and semantic changes using contextual embeddings and word frequencies, and second, aggregating information about these changes into per-document influence scores by estimating a high-dimensional Hawkes process with a low-rank parameter matrix. This measure of linguistic influence is predictive of future citations: the estimate of linguistic influence from the two years after a paper’s publication is correlated with and predictive of its citation count in the following three years.
+  description: "Citation count is an imperfect proxy of linguistic influence of research publications. We propose a novel method to quantify linguistic influence in timestamped document collections, first identifying lexical and semantic changes using contextual embeddings and word frequencies, and second, aggregating information about these changes into per-document influence scores by estimating a high-dimensional Hawkes process with a low-rank parameter matrix. This measure of linguistic influence is predictive of future citations: the estimate of linguistic influence from the two years after a paper’s publication is correlated with and predictive of its citation count in the following three years."
   authors: Sandeep Soni, David Bamman and Jacob Eisenstein
   link:
     url: https://aclanthology.org/2022.findings-emnlp.418/
