@@ -7,6 +7,15 @@
     display: ArXiv (2023)
   highlight: 1
 
+- title: "Predicting Long-Term Citations from Short-Term Linguistic Influence"
+  image: citations_fig1.png
+  description: Citation count is an imperfect proxy of linguistic influence of research publications. We propose a novel method to quantify linguistic influence in timestamped document collections, first identifying lexical and semantic changes using contextual embeddings and word frequencies, and second, aggregating information about these changes into per-document influence scores by estimating a high-dimensional Hawkes process with a low-rank parameter matrix. This measure of linguistic influence is predictive of future citations: the estimate of linguistic influence from the two years after a paper’s publication is correlated with and predictive of its citation count in the following three years.
+  authors: Sandeep Soni, David Bamman and Jacob Eisenstein
+  link:
+    url: https://aclanthology.org/2022.findings-emnlp.418/
+    display: EMNLP Findings (2022)
+  highlight: 1
+  
 - title: "Narrative Theory for Computational Narrative Understanding"
   image: narrative_image.png
   description:  In this position paper, we introduce the dominant theoretical frameworks on narrative to the NLP community, situate current research in NLP within distinct narratological traditions, and argue that linking computational work in NLP to theory opens up a range of new empirical questions that would both help advance our understanding of narrative and open up new practical applications.
