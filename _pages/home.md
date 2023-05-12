@@ -37,3 +37,6 @@ This is the website for [David Bamman](https://people.ischool.berkeley.edu/~dbam
 Prospective undergraduate research assistants should apply through [URAP](https://research.berkeley.edu/urap/) at the beginning of each semester. 
 
 You can also visit some of our friends around campus: [Berkeley HCI](https://hci.berkeley.edu/), [Berkeley NLP](https://nlp.cs.berkeley.edu/), and [Digital Humanities at Berkeley](https://digitalhumanities.berkeley.edu/). 
+
+[Group photo by Emily Liu.]
+
