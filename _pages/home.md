@@ -20,8 +20,11 @@ This is the website for [David Bamman](https://people.ischool.berkeley.edu/~dbam
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bamman_group.jpeg" alt="Slide 1" />
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/movies.jpeg" alt="Slide 2" />
+        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_5095.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_5095.jpeg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
