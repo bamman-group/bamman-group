@@ -8,7 +8,7 @@ permalink: /
 
 This is the website for [David Bamman](https://people.ischool.berkeley.edu/~dbamman/)'s research group! We are researchers at University of California, Berkeley's [School of Information](https://ischool.berkeley.edu) and [BAIR](https://bair.berkeley.edu/). Our work spans a variety of areas, including but not limited to: computational social science, cultural analytics, natural language processing, and computational precision health. 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
