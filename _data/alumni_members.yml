@@ -1,14 +1,14 @@
 - name: Jon Gillick
   photo: jon.webp
-  duration: Graduated Dec 2022 -> Postdoc, University of the Arts London
-  info: PhD Student
+  duration: Sept 2016 to Dec 2022
+  info: PhD Student → Postdoc, University of the Arts London
   email: jrgillick at gmail
   number_educ: 1
   education1: <a href="https://www.jongillick.com/">website</a>
 
 - name: Matt Sims
   photo: matt.jpg
-  info: Postdoc -> Sudowrite
+  info: Postdoc → Sudowrite
   duration: Sep 2018 to Jul 2021
   email: wolf.sims | @gmail
   number_educ: 1
@@ -16,7 +16,7 @@
 
 - name: Sandeep Soni
   photo: sandeep.jpg
-  info: Postdoc -> Assistant Prof, Emory University
+  info: Postdoc → Assistant Prof, Emory University
   duration: Sep 2021 to Jul 2023
   email: soni dot sandeepb at gmail
   number_educ: 1
